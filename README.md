@@ -1,2 +1,2 @@
 # cpp-nutshell
-A repository for reviewing and improve cpp knowledge
+A repository for reviewing and improving cpp knowledge with practical projects
